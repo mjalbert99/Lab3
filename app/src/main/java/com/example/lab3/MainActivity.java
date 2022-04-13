@@ -1,4 +1,4 @@
-git branch feature/change-textpackage com.example.lab3;
+package com.example.lab3;
 
 import androidx.appcompat.app.AppCompatActivity;
 
